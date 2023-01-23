@@ -1,0 +1,9 @@
+const CameraT=()=>{
+
+
+useEffect(()=>{
+
+}),[]
+
+}
+

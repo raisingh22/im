@@ -1,0 +1,5 @@
+const CameraT=()={
+
+useEff
+
+}

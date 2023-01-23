@@ -1,0 +1,7 @@
+const CameraT=()=>{
+
+
+useEffect
+
+}
+
